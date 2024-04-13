@@ -26,8 +26,5 @@ public class modif {
         this.moneda_cambio = moneda_cambio;
     }
 
-    @Override
-    public String toString() {
-        return "moneda nat=" + moneda_nat + ", cantidad=" + cantidad + ", moneda cambio" + moneda_cambio ;
-    }
+
 }
